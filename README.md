@@ -53,7 +53,7 @@ credit-risk-scoring/
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/credit-risk-scoring.git
+git clone https://github.com/mamundu509/Credit-Scoring-ML-model-in-Python
 cd credit-risk-scoring
 ```
 2. Install dependencies:
