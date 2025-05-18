@@ -89,8 +89,6 @@ print(f"Model trained with AUC: {auc:.3f}")
 | Random Forest       | 0.761   | 0.70      | 0.65   |
 | Logistic Regression | 0.731   | 0.68      | 0.62   |
 
-### Feature Importance
-![Feature Importance](outputs/visualizations/feature_importance.png)
 
 ## 🛠 Development
 
